@@ -1,0 +1,11 @@
+---------------------------- CONSOLE MAKER: ABOUT ----------------------------
+Version: 1.0.0 (The Original)
+Release Date: TBD
+
+Credits
+-------
+Design, Graphics, and Programming - Blitz Studio
+Main Menu Music: "Powerful Trap Beat" - Alex-Productions
+Minigame Music: "Space Game" - Francisco Alvear
+
+Thanks for playing!
